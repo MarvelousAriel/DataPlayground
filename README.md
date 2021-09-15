@@ -1,1 +1,3 @@
 # DataPlayground
+
+Just for fun.
