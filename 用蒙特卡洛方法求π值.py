@@ -22,7 +22,7 @@ for i in range(0, n):
 	y = random.uniform(y_neg, y_pos)
 
 	if math.sqrt(x**2 + y**2) <= 1.0: #判定随机点与中心点的距离
-		count += 1
+	   count += 1
 
 result = (count / n) * 4
 print("Estimation of π is ", result)
